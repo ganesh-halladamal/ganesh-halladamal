@@ -1,4 +1,4 @@
-## Hello 👋 I'm Ganesh Halladamal 👨‍💻
+## Hello 👋 I'm Ganesh👨‍💻
 
 A passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. I thrive on building innovative solutions. My goal is to leverage my technical skills in a challenging Full Stack Developer role, contributing to the growth of a reputable organization.
 
