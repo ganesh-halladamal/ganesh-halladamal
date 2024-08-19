@@ -1,8 +1,8 @@
 ## Hello 👋 I'm Ganesh👨‍💻
 
-A passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. I thrive on building innovative solutions. My goal is to leverage my technical skills in a challenging Full Stack Developer role, contributing to the growth of a reputable organization.
+Enthusiastic Full Stack Developer with a strong foundation of front-end and back-end technologies. I get better at creating innovative solutions. 
 
-Continuously learning and evolving, I am committed to staying at the forefront of technology trends, delivering high-quality work, and driving impactful results.✨
+Always learning and evolving, I am committed to staying at the forefront of technological trends, delivering superior work and producing outstanding results.✨
 
 ### 🔭 I’m currently working on ...
 
@@ -13,7 +13,7 @@ Continuously learning and evolving, I am committed to staying at the forefront o
 <a href="https://git-scm.com/" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 
-### 🌱 I have also worked with ...
+### 💼 I have also worked with ...
 
 <a href="https://www.cprogramming.com/" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.java.com/" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -26,26 +26,25 @@ Continuously learning and evolving, I am committed to staying at the forefront o
 <a href="https://www.mysql.com/" target="_blank" title="MySQL" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="60" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.postman.com/" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/></a>&nbsp;&nbsp;
 
-### 💬 I post actively on ...
+### 🌱 I’m currently learning ...
+
+- 📚 Advanced JavaScript Concepts
+- 🚀 AWS (Amazon Web Services): Enhancing cloud infrastructure skills for scalable and secure applications.
+- 🛠️ Redux: Mastering state management in React applications for improved user experience.
+- 💡 Web Performance Optimization
+- 🧠 AI and Machine Learning Integration with Web Applications
+
+### 📈 GitHub Streaks ...
+
+![Ganesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganesh-halladamal&theme=dark&date_format=j%20M%5B%20Y%5D&ring=DD2727&fire=DD2727&currStreakLabel=DD2727)
+
+### 💬 Connect with me ...
 
 <a href="https://www.linkedin.com/in/ganesh-halladamal/" title="LinkedIn" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://x.com/ganeshph_" title="X (formerly Twitter)" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>
-
-### 📫 You can also find me on ...
-
+<a href="https://x.com/ganeshph_" title="X (formerly Twitter)" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="X (formerly Twitter)" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:halladmalganesh@mail.com" target="_blank" title="Email" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<!--
-**ganesh-halladamal/ganesh-halladamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Fun Fact ...
 
-Here are some ideas to get you started:
-
--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎧 I have a playlist for every mood—coding with music is my superpower!
+- 🧑‍🎓 Lifelong learner with a passion for tech and innovation.
