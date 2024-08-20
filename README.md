@@ -29,7 +29,7 @@ Always learning and evolving, I am committed to staying at the forefront of tech
 ### 🌱 I’m currently learning ...
 
 - 📚 Advanced JavaScript Concepts
-- 🚀 AWS (Amazon Web Services): Enhancing cloud infrastructure skills for scalable and secure applications.
+- 🚀 Enhancing cloud infrastructure skills for scalable and secure applications.
 - 🛠️ Redux: Mastering state management in React applications for improved user experience.
 - 💡 Web Performance Optimization
 - 🧠 AI and Machine Learning Integration with Web Applications
