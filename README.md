@@ -43,7 +43,6 @@ Always learning and evolving, I am committed to staying at the forefront of tech
 ### 💬 Connect with me ...
 
 <a href="https://www.linkedin.com/in/ganesh-halladamal/" title="LinkedIn" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://x.com/ganeshph_" title="X (formerly Twitter)" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="X (formerly Twitter)" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:halladmalganesh@mail.com" target="_blank" title="Email" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### ⚡ Fun Fact ...
