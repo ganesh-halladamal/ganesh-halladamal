@@ -4,7 +4,7 @@ Enthusiastic Full Stack Developer with a strong foundation of front-end and back
 
 Always learning and evolving, I am committed to staying at the forefront of technological trends, delivering superior work and producing outstanding results.✨
 
-### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ....
 
 <a href="https://reactjs.org" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://expressjs.com/" target="_blank" title="ExpressJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -15,7 +15,7 @@ Always learning and evolving, I am committed to staying at the forefront of tech
 <a href="" title="AWS" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
-### 💼 I have also worked with ...
+### 💼 I have also worked with ....
 
 <a href="https://www.cprogramming.com/" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.java.com/" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="30" height="30"/></a>&nbsp;&nbsp;
